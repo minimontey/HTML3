@@ -4,7 +4,7 @@ body{
 	background: url("images/dogbg.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-    background-size: cover,auto;
+    background-size: auto;
 	}
 #container{
 	width:900px;
