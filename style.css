@@ -3,7 +3,7 @@
 body{
 	background: url("images/dogbg.jpg");
 	background-repeat: no-repeat;
-	background-attachment: fixed;
+	background-attachment: scroll;
 	background-size: cover;
 	}
 #container{
