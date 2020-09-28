@@ -48,14 +48,13 @@ nav li{
 nav a:link {
   /*use of web-font*/
   font-family: filson-pro,sans-serif;
-  color:#696969;
+  color:rgba(235,130,101,0.75);
   text-decoration: none;
   margin-right: 30px;	
 	}
 nav a:visited {
-	color:rgba(235,130,101,0.75);
 	}
-nav a:hover {
+nav a:hover{
   color:#D3D3D3;
 	}
 
