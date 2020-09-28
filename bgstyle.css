@@ -53,6 +53,7 @@ nav a:link {
   margin-right: 30px;	
 	}
 nav a:visited {
+	color:rgba(235,130,101,0.75);
 	}
 nav a:hover{
   color:#D3D3D3;
